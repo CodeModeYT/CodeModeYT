@@ -1,4 +1,3 @@
-Doing some coding projects for fun - always learning new stuff
 <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CodeModeYT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -6,9 +5,17 @@ Doing some coding projects for fun - always learning new stuff
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CodeModeYT?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-## Languages and tools
+I am CodeMode, a German student doing all kind of tech stuff for fun.
+
+![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=gruvbox)
+
+<details>
+ <summary><h3>Details about me (Expand to view)</h3></summary>
+   
+
+<br />
+
+      
 ### Good knowledge:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -32,3 +39,4 @@ Doing some coding projects for fun - always learning new stuff
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 
+<!-- Inspired by ForrestKnight  -->
