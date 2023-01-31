@@ -7,7 +7,9 @@
 
 I am CodeMode, a German student doing all kind of tech stuff for fun.
 
-![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=gruvbox)
+<a>![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=transparent&count_private=true&)</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact)
 
 <details>
  <summary><h3>Details about me (Expand to view)</h3></summary>
