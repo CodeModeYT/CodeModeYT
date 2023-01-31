@@ -2,10 +2,12 @@
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CodeModeYT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CodeModeYT?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CodeModeYT?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCmI1DvxN-wRCIFUkmXrM7WA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      </a>
 </p>
 
-I am CodeMode, a German student doing all kind of tech stuff for fun.
+I am CodeMode, a German student doing all kind of tech stuff for fun. I also share some of the stuff I make on YouTube, as well as a few funny videos about coding.
 
 <a>![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=transparent&count_private=true&)</a>
 
@@ -42,3 +44,4 @@ I am CodeMode, a German student doing all kind of tech stuff for fun.
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 
 <!-- Inspired by ForrestKnight  -->
+<!-- Using the profile cards from anuraghazra -->
