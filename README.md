@@ -14,7 +14,7 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I also sha
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact)
 
 <details>
- <summary><h3>Details about me (Expand to view)</h3></summary>
+ <summary><h3>Details about me (Click to view)</h3></summary>
    
 
 <br />
