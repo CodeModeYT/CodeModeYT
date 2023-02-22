@@ -7,7 +7,7 @@
       </a>
 </p>
 
-I am CodeMode, a German student doing all kind of tech stuff for fun. I also share some of the stuff I make on YouTube, as well as a few funny videos about coding.
+I am CodeMode, a German student doing all kind of tech stuff for fun. I also share some of the stuff I do on YouTube, as well as a few funny videos about coding.
 
 <a>![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=transparent&count_private=true&)</a>
 
@@ -42,6 +42,10 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I also sha
 ### Currently learning:
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+<br />
+ 
+### I am currently working on...
+... setting up my own home server with proxmox and TrueNAS
 
 <!-- Inspired by ForrestKnight  -->
 <!-- Using the profile cards from anuraghazra -->
