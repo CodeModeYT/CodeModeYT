@@ -45,7 +45,7 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I also sha
 <br />
  
 ### I am currently working on...
-... setting up my own home server with proxmox and TrueNAS
+... automating my home server (proxmox and TrueNAS)
 
 <!-- Inspired by ForrestKnight  -->
 <!-- Using the profile cards from anuraghazra -->
