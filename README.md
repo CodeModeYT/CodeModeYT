@@ -12,9 +12,9 @@
 
 I am CodeMode, a German student doing all kind of tech stuff for fun. I also share some of the stuff I do on YouTube, as well as a few funny videos about coding.
 
-<a>![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=transparent&count_private=true&)</a>
+<a>![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=github_dark&count_private=true&)</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact&theme=github_dark)
 
 <details>
  <summary><h3>Details about me (Click to view)</h3></summary>
