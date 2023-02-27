@@ -5,7 +5,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CodeModeYT?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://www.youtube.com/channel/UCmI1DvxN-wRCIFUkmXrM7WA">   <img alt="Views" title="Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCmI1DvxN-wRCIFUkmXrM7WA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       </a>
-      <a href="https://dsc.gg/codecafe">
+      <a href="https://discord.gg/golden-gift-864540857121898496">
             <img height="28px" src="https://img.shields.io/discord/864540857121898496?style=for-the-badge&logo=appveyor?color=black&label=Discord" alt="Discord Server">
       </a>
 </p>
