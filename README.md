@@ -16,7 +16,7 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I am curre
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact&theme=github_dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codemodeyt)?theme=github_dark](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codemodeyt)?theme=github-dark](https://git.io/streak-stats)
 
 
 
