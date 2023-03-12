@@ -59,4 +59,4 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I am curre
 <!-- ToDo:  -->
 <!-- add Kotlin and android studio icon  -->
 <!-- Using the profile cards from anuraghazra -->
-<!-- Days using this foe activity;  -->
+<!-- Days using this for activity (starting March 13th):  -->
