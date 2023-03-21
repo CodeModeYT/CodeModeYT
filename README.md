@@ -56,7 +56,7 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I am curre
            
  
 </details>
-<!-- Inspired by ForrestKnight  -->
+<!-- Inspired by ForrestKnight and others -->
 <!-- ToDo:  -->
 <!-- add Kotlin and android studio icon  -->
 <!-- Using the profile cards from anuraghazra -->
