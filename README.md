@@ -9,12 +9,14 @@
             <img height="28px" src="https://img.shields.io/discord/864540857121898496?style=for-the-badge&logo=appveyor?color=black&label=Discord" alt="Discord Server">
       </a>
 </p>
+<!--![Profile views](https://komarev.com/ghpvc/?username=CodeModeYT&style=flat-square)--> 
 
 I am CodeMode, a German student doing all kind of tech stuff for fun. I am currently working on the website of my school and a few smaller projects (and I am always trying out new things).
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=codemodeyt&theme=github-dark&hide_border=true)](https://git.io/streak-stats) --> 
 ![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=github_dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact&theme=github_dark)
+<!--![Profile views](https://komarev.com/ghpvc/?username=CodeModeYT&style=flat-square)--> 
 
 
 
