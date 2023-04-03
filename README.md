@@ -14,7 +14,7 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I am curre
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=codemodeyt&theme=github-dark&hide_border=true)](https://git.io/streak-stats) --> 
 ![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=github_dark&count_private=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact&theme=github_dark)
 
 
 
@@ -23,12 +23,7 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I am curre
 
 <details>
  <summary><h3>Details about me (Click to view)</h3></summary>
-   
 
-<br />
-
-      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact&theme=github_dark)
 ### Good knowledge:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
