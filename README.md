@@ -14,8 +14,8 @@
 I am CodeMode, a German student doing all kind of tech stuff for fun. I am currently working on the website of my school and a few smaller projects (and I am always trying out new things).
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=codemodeyt&theme=github-dark&hide_border=true)](https://git.io/streak-stats) --> 
-![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=github_dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact&theme=github_dark)
+<!--![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=github_dark&count_private=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact&theme=github_dark)
 <!--![Profile views](https://komarev.com/ghpvc/?username=CodeModeYT&style=flat-square)--> 
 
 
@@ -23,8 +23,8 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I am curre
 
 
 
-<details>
- <summary><h3>Details about me (Click to view)</h3></summary>
+<!--<details>-->
+ <summary><h3>Details about me <!--(Click to view)--></h3></summary>
 
 ### Good knowledge:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
