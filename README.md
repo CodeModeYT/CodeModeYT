@@ -53,7 +53,6 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I am curre
 <br />
 Profile views since 1st May 2023:
 <img src="https://komarev.com/ghpvc/?username=codemodeyt&label=Profile%20views&color=0e75b6&style=flat" alt="valeriusec" />
-CodeMode [[@codemodeyt](https://github.com/codemodeyt)]
         
            
  
