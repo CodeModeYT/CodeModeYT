@@ -1,3 +1,4 @@
+<img src="Unbenanntes_Projekt.PNG" height="250px" length="1000px"/>
 <p align="left">
       <a href="https://github.com/CodeModeYT?tab=followers">
          <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/CodeModeYT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
@@ -24,7 +25,7 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I am curre
 
 
 <!--<details>-->
- <summary><h3>Details about me <!--(Click to view)--></h3></summary>
+<h3>Details about me <!--(Click to view)--></h3></summary>
 
 ### Good knowledge:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
