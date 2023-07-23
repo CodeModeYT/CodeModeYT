@@ -1,4 +1,4 @@
-<img src="Unbenanntes_Projekt.PNG" height="250px" length="1000px"/>
+
 <p align="left">
       <a href="https://github.com/CodeModeYT?tab=followers">
          <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/CodeModeYT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
