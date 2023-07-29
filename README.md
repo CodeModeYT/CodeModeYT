@@ -25,7 +25,7 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I am curre
 
 
 <!--<details>-->
-<h3>Details about me <!--(Click to view)--></h3></summary>
+<!--<h3>Details about me <!--(Click to view)--></h3></summary>
 
 ### Good knowledge:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
