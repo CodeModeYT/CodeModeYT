@@ -5,10 +5,10 @@
       <a href="https://github.com/CodeModeYT?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CodeModeYT?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <!-- <a href="https://www.youtube.com/channel/UCmI1DvxN-wRCIFUkmXrM7WA">   <img alt="Views" title="Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCmI1DvxN-wRCIFUkmXrM7WA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> -->
-      </a>
+      <!--</a>
       <a href="https://discord.gg/golden-gift-864540857121898496">
             <img height="28px" src="https://img.shields.io/discord/864540857121898496?style=for-the-badge&logo=appveyor?color=black&label=Discord" alt="Discord Server">
-      </a>
+      </a> -->
 </p>
 <!--![Profile views](https://komarev.com/ghpvc/?username=CodeModeYT&style=flat-square)--> 
 
@@ -27,7 +27,7 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I am curre
 <!--<details>-->
 <!--<h3>Details about me <!--(Click to view)--></h3></summary>
 
-### Good knowledge:
+<!-- ### Good knowledge:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -48,7 +48,7 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I am curre
 
 ### Currently learning:
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> -->
 
 <br />
 <br />
