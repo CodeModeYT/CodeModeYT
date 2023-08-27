@@ -50,10 +50,10 @@ I am CodeMode, a German student doing all kind of tech stuff for fun. I am curre
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> -->
 
-<br />
+<!-- <br />
 <br />
 Profile views since 1st May 2023:
-<img src="https://komarev.com/ghpvc/?username=codemodeyt&label=Profile%20views&color=0e75b6&style=flat" alt="valeriusec" />
+<img src="https://komarev.com/ghpvc/?username=codemodeyt&label=Profile%20views&color=0e75b6&style=flat" alt="valeriusec" /> -->
         
            
  
