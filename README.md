@@ -58,8 +58,6 @@ Profile views since 1st May 2023:
            
  
 </details>
-<!-- Inspired by ForrestKnight and others -->
+<!-- Inspired by ForrestKnight and other GitHub profiles -->
 <!-- ToDo:  -->
-<!-- add Kotlin and android studio icon  -->
 <!-- Using the profile cards from anuraghazra -->
-<!-- Days using this for activity (starting March 13th):  12 -->
