@@ -12,7 +12,9 @@
 </p>
 <!--![Profile views](https://komarev.com/ghpvc/?username=CodeModeYT&style=flat-square)--> 
 
-I am CodeMode, a German student doing all kind of tech stuff for fun. I am currently working on the website of my school and a few smaller projects (and I am always trying out new things).
+I am CodeMode, a German student doing all kind of tech stuff for fun. I am always working on smaller (and sometimes also bigger) projects to improve my skills and to try out new things.
+
+[@Fanny-Leicht-Gymnasium](https://www.github.com/Fanny-Leicht-Gymnasium)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=codemodeyt&theme=github-dark&hide_border=true)](https://git.io/streak-stats) --> 
 <!--![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=github_dark&count_private=true)
