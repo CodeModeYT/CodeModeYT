@@ -5,17 +5,31 @@
          <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/CodeModeYT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
       <a href="https://github.com/CodeModeYT?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CodeModeYT?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <!-- <a href="https://www.youtube.com/channel/UCmI1DvxN-wRCIFUkmXrM7WA">   <img alt="Views" title="Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCmI1DvxN-wRCIFUkmXrM7WA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> -->
-      <!--</a>
-      <a href="https://discord.gg/golden-gift-864540857121898496">
-            <img height="28px" src="https://img.shields.io/discord/864540857121898496?style=for-the-badge&logo=appveyor?color=black&label=Discord" alt="Discord Server">
-      </a> -->
+         <img alt="profile-views" title="Profile Views" src="https://komarev.com/ghpvc/?username=CodeModeYT&style=flat-square"/>
 </p>
-<!--![Profile views](https://komarev.com/ghpvc/?username=CodeModeYT&style=flat-square)--> 
 
-I am CodeMode, a German student doing all kind of tech stuff for fun. I am always working on smaller (and sometimes also bigger) projects to improve my skills and to try out new things.
+# Hi there, I'm CodeMode 👋
 
-[@Fanny-Leicht-Gymnasium](https://www.github.com/Fanny-Leicht-Gymnasium)
+I'm a German student who's into all things involving tech. From hardware to software and beyond, if it involves tech, count me in!
+
+Looking at software, I currently mostly do Web Development or and around with Python:
+
+## 💻 Projects
+Here you can find a selection of some of my most popular public projects
+
+### [DLS Player Search](https://github.com/CodeModeYT/DLS-Player-search) (HTML/CSS/JS)
+This straightforward website allows you to browse the unofficial player database of the popular mobile game [DreamLeagueSoccer](https://www.ftgames.com/games#games-dls). Given my avid interest in the game, I often found myself wishing for a more convenient way to access this database, which, although it existed, lacked user-friendly navigation. This prompted me to take action and create a solution for smoother team planning and management.
+
+### [ChatGPT Website Bypasser](https://github.com/CodeModeYT/ChatGPT-Website-Bypasser) (Python)
+Back in the days, where ChatGPT pretty much always was at capacity, these simple scripts allowed you to still use ChatGPT, by just using the API endpoint rather than the website to connect with the AI.
+Originally being a small project only intended for personal use, this somehow developed to my most popular project so far.
+
+### [Spotify2mp3](https://github.com/CodeModeYT/spotify2mp3) (Python)
+This tool allows you to easily convert entire Spotify playlists into mp3 files. (Still in active development)
+
+### [ToDo](https://github.com/CodeModeYT/ToDo) (Svelte/SMUI)
+A simple to-do web app that I developed during my internship [@sprinteins](https://github.com/sprinteins).
+
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=codemodeyt&theme=github-dark&hide_border=true)](https://git.io/streak-stats) --> 
 <!--![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=github_dark&count_private=true)
