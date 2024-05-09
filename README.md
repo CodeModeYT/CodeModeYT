@@ -12,31 +12,51 @@
 
 I'm a German student who's into all things involving tech. From hardware to software and beyond, if it involves tech, count me in!
 
-Looking at software, I currently mostly do Web Development or and around with Python:
+Looking at software, I currently mostly do Web Development and play around with Python:
 
 ## 💻 Projects
 Here you can find a selection of some of my most popular public projects
 
-### [DLS Player Search](https://github.com/CodeModeYT/DLS-Player-search) (HTML/CSS/JS)
-This straightforward website allows you to browse the unofficial player database of the popular mobile game [DreamLeagueSoccer](https://www.ftgames.com/games#games-dls). Given my avid interest in the game, I often found myself wishing for a more convenient way to access this database, which, although it existed, lacked user-friendly navigation. This prompted me to take action and create a solution for smoother team planning and management.
+<details>
+   <summary>
+      <h3><a href="https://github.com/CodeModeYT/DLS-Player-search">DLS Player Search</a> (HTML/CSS/JS)</h3>
+   </summary>
+   This straightforward website allows you to browse the unofficial player database of the popular mobile game <a href="https://www.ftgames.com/games#games-dls">Dream League Soccer</a>. Given my avid interest in the game, I often found myself wishing for a more convenient way to access this database, which, although it existed, lacked user-friendly navigation. This prompted me to take action and create a solution for smoother team planning and management.
+</details>
 
-### [ChatGPT Website Bypasser](https://github.com/CodeModeYT/ChatGPT-Website-Bypasser) (Python)
-Back in the days, where ChatGPT pretty much always was at capacity, these simple scripts allowed you to still use ChatGPT, by just using the API endpoint rather than the website to connect with the AI.
-Originally being a small project only intended for personal use, this somehow developed to my most popular project so far.
+<details>
+   <summary>
+      <h3><a href="https://github.com/CodeModeYT/DLS-Player-search">ChatGPT Website Bypasser</a> (Python)</h3>
+   </summary>
+   Back in the days, where ChatGPT pretty much always was at capacity, these simple scripts allowed you to still use ChatGPT, by just using the API endpoint rather than the website to connect with the AI.
+   Originally being a small project only intended for personal use, this somehow developed to my most popular project so far.
+</details>
 
-### [Spotify2mp3](https://github.com/CodeModeYT/spotify2mp3) (Python)
-This tool allows you to easily convert entire Spotify playlists into mp3 files. (Still in active development)
+<details>
+   <summary>
+      <h3><a href="https://github.com/CodeModeYT/spotify2mp3">Spotify2mp3</a> (Python)</h3>
+   </summary>
+   This tool allows you to easily convert entire Spotify playlists into mp3 files. (Still in active development)
+</details>
 
-### [ToDo](https://github.com/CodeModeYT/ToDo) (Svelte/SMUI)
-A simple to-do web app that I developed during my internship [@sprinteins](https://github.com/sprinteins).
+<details>
+   <summary>
+      <h3><a href="https://github.com/CodeModeYT/ToDo">ToDo - App</a> (Svelte/SMUI)</h3>
+   </summary>
+   A simple to-do web app that I developed during my internship <a href="https://github.com/sprinteins">@sprinteins</a>.
+</details>
 
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=codemodeyt&theme=github-dark&hide_border=true)](https://git.io/streak-stats) --> 
-<!--![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=github_dark&count_private=true)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact&theme=github_dark)
-<!--![Profile views](https://komarev.com/ghpvc/?username=CodeModeYT&style=flat-square)--> 
 
 
+## 📊 GitHub stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact&theme=github_dark&hide_border=true)
+
+![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=codemodeyt&theme=github-dark&hide_border=true)
+
+<!--![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeModeYT&theme=github_dark&layout=compact&hide_border=true)-->
 
 
 
@@ -73,8 +93,7 @@ Profile views since 1st May 2023:
 <img src="https://komarev.com/ghpvc/?username=codemodeyt&label=Profile%20views&color=0e75b6&style=flat" alt="valeriusec" /> -->
         
            
- 
-</details>
+
 <!-- Inspired by ForrestKnight and other GitHub profiles -->
 <!-- ToDo:  -->
 <!-- Using the profile cards from anuraghazra -->
