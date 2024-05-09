@@ -12,7 +12,7 @@
 
 I'm a German student who's into all things involving tech. From hardware to software and beyond, if it involves tech, count me in!
 
-Looking at software, I currently mostly do Web Development and play around with Python:
+Looking at software, I currently mostly do Web Development or and around with Python:
 
 ## 💻 Projects
 Here you can find a selection of some of my most popular public projects
@@ -50,13 +50,13 @@ Here you can find a selection of some of my most popular public projects
 
 
 ## 📊 GitHub stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeModeYT&layout=compact&theme=github_dark&hide_border=true&langs_count=20">
+<img src="https://github-readme-stats.vercel.app/api?username=CodeModeYT&\&&hide_border=true&show_icons=true&theme=github_dark&count_private=true\&rank_icon=percentile&include_all_commits=true\&hide=contribs&\&show=prs_merged_percentage&">
+<img src="https://streak-stats.demolab.com?user=codemodeyt&theme=github-dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codemodeyt&theme=github_dark&layout=compact&hide_border=true">
+</p>
 
-![CodeMode's GithHub stats](https://github-readme-stats.vercel.app/api?username=CodeModeYT&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=codemodeyt&theme=github-dark&hide_border=true)
-
-<!--![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeModeYT&theme=github_dark&layout=compact&hide_border=true)-->
 
 
 
