@@ -12,7 +12,7 @@
 
 I'm a German student who's into all things involving tech. From hardware to software and beyond, if it involves tech, count me in!
 
-Looking at software, I currently mostly do Web Development or and around with Python:
+Looking at software, I currently mostly do Web Development and play around with Python:
 
 ## 💻 Projects
 Here you can find a selection of some of my most popular public projects
