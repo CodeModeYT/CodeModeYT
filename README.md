@@ -1,6 +1,6 @@
 
 <p align="left">
-      <a href="https://www.buymeacoffee.com/codemodeyt"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee!&emoji=&slug=codemodeyt&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" width="140em"/></a>
+      <!-- <a href="https://www.buymeacoffee.com/codemodeyt"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee!&emoji=&slug=codemodeyt&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" width="140em"/></a>-->
       <a href="https://github.com/CodeModeYT?tab=followers">
          <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/CodeModeYT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
       <a href="https://github.com/CodeModeYT?tab=repositories&sort=stargazers">
