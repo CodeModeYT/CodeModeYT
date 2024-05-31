@@ -26,7 +26,7 @@ Here you can find a selection of some of my most popular public projects
 
 <details>
    <summary>
-      <h3><a href="https://github.com/CodeModeYT/DLS-Player-search">ChatGPT Website Bypasser</a> (Python)</h3>
+      <h3><a href="https://github.com/CodeModeYT/ChatGPT-Website-Bypasser">ChatGPT Website Bypasser</a> (Python)</h3>
    </summary>
    Back in the days, where ChatGPT pretty much always was at capacity, these simple scripts allowed you to still use ChatGPT, by just using the API endpoint rather than the website to connect with the AI.
    Originally being a small project only intended for personal use, this somehow developed to my most popular project so far.
