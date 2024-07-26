@@ -15,7 +15,7 @@ I'm a German student who's into all things involving tech. From hardware to soft
 Looking at software, I currently mostly do Web Development and play around with Python:
 
 ## 💻 Projects
-Here you can find a selection of some of my most popular public projects
+Here you can find a selection of some of my most popular public projects. Expand them to get more details.
 
 <details>
    <summary>
@@ -25,20 +25,25 @@ Here you can find a selection of some of my most popular public projects
 </details>
 
 <details>
-   <summary>
-      <h3><a href="https://github.com/CodeModeYT/ChatGPT-Website-Bypasser">ChatGPT Website Bypasser</a> (Python)</h3>
-   </summary>
-   Back in the days, where ChatGPT pretty much always was at capacity, these simple scripts allowed you to still use ChatGPT, by just using the API endpoint rather than the website to connect with the AI.
-   Originally being a small project only intended for personal use, this somehow developed to my most popular project so far.
+      <summary>
+            <h3><a href="https://github.com/CodeModeYT/Notion-WebUntis">Notion WebUntis</a> (Python)</h3>
+      </summary>
+      This tool allows you to easily integrate your WebUntis timetable into your Notion Board using the Notion API and a WebUntis API wrapper. It even offers advanced settings and can be run server-side to require no additional interfaces apart from the Notion board.
 </details>
 
 <details>
    <summary>
       <h3><a href="https://github.com/CodeModeYT/spotify2mp3">Spotify2mp3</a> (Python)</h3>
    </summary>
-   This tool allows you to easily convert entire Spotify playlists into mp3 files. (Still in active development)
+   This tool allows you to easily convert entire Spotify playlists into mp3 files. This is achieved by searching for each song on YouTube and then downloading it. (Still in active development)
 </details>
 
+<details>
+   <summary>
+      <h3><a href="https://github.com/CodeModeYT/https://github.com/CodeModeYT/EURO-CustomGoalAnthem">EURO Custom Goal Anthem</a> (HTML/CSS/JS, Python)</h3>
+   </summary>
+   A website that played Major Tom whenever Germany scored during the EUROs. Now you can host it locally to use it with your own teams, games and anthems.
+</details>
 <details>
    <summary>
       <h3><a href="https://github.com/CodeModeYT/ToDo">ToDo - App</a> (Svelte/SMUI)</h3>
@@ -46,7 +51,13 @@ Here you can find a selection of some of my most popular public projects
    A simple to-do web app that I developed during my internship <a href="https://github.com/sprinteins">@sprinteins</a>.
 </details>
 
-
+<details>
+   <summary>
+      <h3><a href="https://github.com/CodeModeYT/ChatGPT-Website-Bypasser">ChatGPT Website Bypasser</a> (Python)</h3>
+   </summary>
+   Back in the days, where ChatGPT pretty much always was at capacity, these simple scripts allowed you to still use ChatGPT, by just using the API endpoint rather than the website to connect with the AI.
+   Originally being a small project only intended for personal use, this somehow developed to my most popular project so far.
+</details>
 
 
 ## 📊 GitHub stats
