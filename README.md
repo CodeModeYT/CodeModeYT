@@ -48,7 +48,13 @@ Here you can find a selection of some of my most popular public projects. Expand
    <summary>
       <h3><a href="https://github.com/CodeModeYT/ToDo">ToDo - App</a> (Svelte/SMUI)</h3>
    </summary>
-   A simple to-do web app that I developed during my internship <a href="https://github.com/sprinteins">@sprinteins</a>.
+   A simple to-do web app that I developed during my internship <a href="https://github.com/sprinteins">@sprinteins</a>. It supports creating, editing, deleting and storing tasks.
+</details>
+<details>
+   <summary>
+      <h3><a href="https://github.com/CodeModeYT/Portfolio">Portfolio</a> (React (TS))</h3>
+   </summary>
+   My personal portfolio website and my first ever React project
 </details>
 
 <details>
