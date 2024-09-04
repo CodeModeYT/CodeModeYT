@@ -40,7 +40,7 @@ Here you can find a selection of some of my most popular public projects. Expand
 
 <details>
    <summary>
-      <h3><a href="https://github.com/CodeModeYT/https://github.com/CodeModeYT/EURO-CustomGoalAnthem">EURO Custom Goal Anthem</a> (HTML/CSS/JS, Python)</h3>
+      <h3><a href="https://github.com/CodeModeYT/EURO-CustomGoalAnthem">EURO Custom Goal Anthem</a> (HTML/CSS/JS, Python)</h3>
    </summary>
    A website that played Major Tom whenever Germany scored during the EUROs. Now you can host it locally to use it with your own teams, games and anthems.
 </details>
